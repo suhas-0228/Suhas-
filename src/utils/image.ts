@@ -21,13 +21,6 @@ export const getImgPath = (path: string): string => {
  * Used for fetching JSON data files
  */
 export const getDataPath = (path: string): string => {
-  if (typeof window !== "undefined") {
-    const basePath = window.location.pathname.split("/")[1] || "";
-    if (basePath && path.startsWith("/")) {
-      return `/${basePath}${path}`;
-    }
-  }
-
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
   if (!basePath) {
     return path;
