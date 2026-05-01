@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "Construction Site Safety PPE Tracking System",
+      "client": "Third-Year Academic Project",
+      "slug": "ppe-tracking-system"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "Data Handling Web Application (Spring MVC & REST API)",
+      "client": "Academic Project",
+      "slug": "data-handling-web-app"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "Fruit & Vegetable Freshness Classification",
+      "client": "Academic Project",
+      "slug": "fruit-classification"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "Women Safety Application",
+      "client": "Tech Squad Prototype",
+      "slug": "women-safety-app"
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "Responsive Portfolio Website",
+      "client": "Freelance / Personal",
+      "slug": "portfolio-website"
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "Full Stack Internship Projects",
+      "client": "Vet Edu Tantrum Ventures Pvt Ltd",
+      "slug": "fullstack-internship"
+    }
+  ]
+}

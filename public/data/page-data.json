@@ -1,0 +1,112 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "suhasraja10@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:suhasraja10@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9042660228",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919042660228"
+      },
+      {
+        "type": "website",
+        "label": "Portfolio (Coming Soon)",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "#"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/suhas-raja-33a4bb290"
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://github.com/suhas"
+      }
+    ]
+  },
+
+  "educationData": {
+    "education": [
+      {
+        "title": "B.Tech - Information Technology (2023 - 2027)",
+        "description": "Coimbatore Institute of Engineering and Technology. Current CGPA: 7.98."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "C",
+        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "HTML, CSS & JavaScript",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Spring MVC & REST APIs",
+        "icon": "/images/home/education-skill/invision-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Git & GitHub",
+        "icon": "/images/icon/web-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Computer Vision",
+        "icon": "/images/icon/web-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/suhas-raja-33a4bb290"
+      },
+      {
+        "title": "GitHub",
+        "href": "https://github.com/suhas"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "suhasraja10@gmail.com",
+        "link": "mailto:suhasraja10@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9042660228",
+        "link": "tel:+919042660228"
+      }
+    ]
+  }
+}
